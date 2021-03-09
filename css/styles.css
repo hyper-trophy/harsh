@@ -1,0 +1,79 @@
+body {
+  text-align: center;
+  margin: 0;
+  background-color: #d3e0ea;
+}
+.container {
+  position: relative;
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+.topc {
+  position: absolute;
+  top: 10%;
+  right: 10%;
+  width: 10%;
+}
+.bottomc {
+  position: absolute;
+  top:150px;
+  left:10%;
+  width: 10%;
+}
+.heading {
+  font-family: 'Pacifico', cursive;
+  font-size: 40px;
+  position: relative;
+  top: 90px;
+}
+.headingp {
+  font-family: 'Akaya Telivigala', cursive;
+  position: relative;
+  top: 80px;
+}
+#mountain {
+  position: relative;
+  top: 55px;
+  width: 100%;
+}
+.profile {
+    font-family: 'Ubuntu', sans-serif;
+    border-style: solid;
+    border-color: white;
+    border-width: 10px;
+    padding-top: 20px;
+    border-top-width: 15px;
+}
+.skills {
+    font-family: 'Ubuntu', sans-serif;
+    border-style: solid;
+    border-color: white;
+    border-width: 0 10px 10px 10px;
+    padding: 20px 10%;
+}
+.imgs{
+  width: 25%;
+}
+.contact-me {
+  font-family: 'Ubuntu', sans-serif;
+  border-style: solid;
+  border-color: white;
+  border-width: 0 10px 10px 10px;
+  padding: 20px 10%;
+}
+.bottom-container {
+  background-color: #98c0de;
+  font-family: 'Ubuntu', sans-serif;
+  border-style: solid;
+  border-color: white;
+  border-width: 0 10px 10px 10px;
+  padding: 20px 10%;
+}
+
+hr {
+  border-style: hidden;
+  width: 25%;
+  height: 5px;
+  background-color: white;
+  border-radius: 20px;
+}
